@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @adityagit-creator
+/src/backend/database.py      @adityagit-creator
+/src/backend/routers/auth.py  @adityagit-creator
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @adityagit-creator
